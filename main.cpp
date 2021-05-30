@@ -117,7 +117,7 @@ int main()
     w.get_username();
     w.get_password();
     w.write_data();
-    cout<<"\nYour Data Got Successfully Saved.........\n";
+    cout<<"\nYour Data Get Successfully Saved.........\n";
     main();
         break;
 
